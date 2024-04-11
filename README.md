@@ -6,8 +6,6 @@ Co-founder of [Ginger Security](https://gingersec.xyz/) and the creator of the f
 I am a Web3 Security Researcher and content creator with a strong background in traditional web2 hacking focused on blockchain security, smart contract hacking, and auditing. With a YouTube channel, Twitter, and LinkedIn following, I'm passionate about helping professionals gain smart contract security skills. I've developed a comprehensive smart contract hacking course with hands-on exercises and an 
 exclusive Discord community. Let's secure the future of Web3 together!🛡️
 
-<br><br>
-
 #### Learn Smart Contract Hacking here:
 
 [Become a Certified Smart Contract Hacker](https://smartcontractshacking.com/)
