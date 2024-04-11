@@ -25,4 +25,4 @@ exclusive Discord community. Let's secure the future of Web3 together!🛡️
 [![JohnnyTime YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/JohnnyTime)
 [![JohnnyTime Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@JohnnyTime)
 [![JohnnyTime Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RealJohnnyTime)
-[![JohnnyTime Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnnytime/)�
+[![JohnnyTime Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnnytime/)
